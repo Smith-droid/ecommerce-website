@@ -21,29 +21,6 @@ A clean and responsive front-end UI for an e-commerce website built using **HTML
 
 ---
 
-## 📁 Folder Structure
-
-ecommerce-website/
-│
-├── index.html → Homepage
-├── shop.html → Product listing page
-├── singleProduct.html → Single product detail view
-├── blog.html → Blog / Article page
-├── cart.html → Shopping cart UI
-├── style.css → All custom CSS styles
-├── screenshots/ → Screenshots for README
-│ ├── homepage.png
-│ ├── shop.png
-│ ├── product.png
-│ ├── cart.png
-│ └── blog.png
-└── img/ → Image assets
-  ├── banner/ → Banner section images
-  ├── blog/ → Images used in blog.html
-  ├── brand/ → Brand logos and icons
-  ├── products/ → Product images
-  └── ... → Other subfolders for images
-
 ## 📸 Screenshots
 
 ### 🏠 Homepage
@@ -60,6 +37,13 @@ ecommerce-website/
 
 ### 📝 Blog Page
 ![Blog Page](./screenshots/blog.png)
+
+---
+
+## 🌐 Live Demo
+
+> Visit the deployed website here:  
+[🔗 View Live Site](https://smith-droid.github.io/ecommerce-website/) 
 
 ---
 
